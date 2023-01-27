@@ -1,3 +1,9 @@
+
+example for blogpost
+https://blog.doubleslash.de/parametrisierte-tests-mit-jasmine-in-typescript-angular/
+
+
+
 # Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
